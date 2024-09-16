@@ -1,4 +1,7 @@
 contact_links:
+  - name: ♻️ Vue 2 issues
+    url: https://github.com/vue-macros/vue-macros/issues/373
+    about: We currently offer paid support for Vue 2. Please consider it for specific issues related to Vue 2.
   - name: ⁉️ Why and How to make a reproduction?
     url: https://antfu.me/posts/why-reproductions-are-required
     about: Reproduction is very important for maintainer to help on your issues!
